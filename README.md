@@ -1,1 +1,3 @@
-# swe-test
+# My awesome project
+
+Containing no code at all, unfortunately...
